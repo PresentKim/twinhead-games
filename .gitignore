@@ -1,0 +1,6 @@
+node_modules/*
+.idea/*
+build/*
+**/*.log
+**/*.bak
+package-lock.json
