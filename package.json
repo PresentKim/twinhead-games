@@ -2,6 +2,15 @@
   "name": "twinhead-games",
   "version": "0.1.0",
   "author": "PresentKim",
+  "description": "Two-Player minit games",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PresentKim/twinhead-games.git"
+  },
+  "bugs": {
+    "url": "https://github.com/PresentKim/twinhead-games/issues"
+  },
+  "homepage": "https://github.com/PresentKim/twinhead-games",
   "license": "MIT",
   "scripts": {
     "build": "preact build",
